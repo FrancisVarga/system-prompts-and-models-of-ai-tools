@@ -1,0 +1,23 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Project Structure Guide
+
+This project contains multiple subdirectories, each corresponding to different AI tools, prompts, or agents. For an overview of the project and its components, refer to the [README.md](mdc:README.md) file at the root of the repository.
+
+- Main directories include:
+  - `Cursor Prompts/`
+  - `Devin AI/`
+  - `Lovable/`
+  - `Manus Agent Tools & Prompt/`
+  - `Nostradamus Prompts/`
+  - `Open Source prompts/` (with subdirectories like Bolt, Cline, Codex CLI, RooCode)
+  - `Replit/`
+  - `Same.dev/`
+  - `v0 Prompts and Tools/`
+  - `VSCode Agent/`
+  - `Windsurf/`
+
+For licensing information, see [LICENSE.md](mdc:LICENSE.md).
